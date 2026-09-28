@@ -1,0 +1,62 @@
+[
+  {
+    "mock": true,
+    "caseName": "Shreya Singhal v. Union of India",
+    "citation": "(2015) 5 SCC 1 (MOCK Annotation)",
+    "court": "Supreme Court of India",
+    "year": 2015,
+    "category": "Cyber Law & Free Speech",
+    "legalIssue": "Constitutionality of Section 66A of IT Act; standards for digital communication offenses and online threats.",
+    "summary": "Landmark ruling striking down vague digital speech provisions while clarifying procedures for legitimate intermediary takedowns and electronic harassment investigations.",
+    "courtReasoning": "The Court distinguished between mere discussion, advocacy, and clear incitement/threat. For actionable digital offenses, an overt act of intimidation or deceptive inducement under specific statutory provisions must be established.",
+    "outcome": "Guidelines issued for digital speech, online intimidation complaints, and police registration criteria.",
+    "applicableSections": ["IT Act Sec 66", "BNS Sec 351 (Equivalent to IPC 506)"],
+    "source": "MOCK",
+    "sourceDocument": "Supreme Court Law Reports (Illustrative Mock Record)"
+  },
+  {
+    "mock": true,
+    "caseName": "Arjun Panditrao Khotkar v. Kailash Kushanrao Gorantyal",
+    "citation": "(2020) 7 SCC 1 (MOCK Annotation)",
+    "court": "Supreme Court of India",
+    "year": 2020,
+    "category": "Electronic Evidence",
+    "legalIssue": "Admissibility of electronic records and mandatory certificate requirement under electronic evidence rules.",
+    "summary": "Authoritative decision on the necessity of electronic certification for digital records, SMS, chat transcripts, and server logs produced in court.",
+    "courtReasoning": "The Supreme Court clarified that production of an electronic certificate is a condition precedent to the admissibility of secondary electronic evidence (such as printouts of chats and screenshots) to prevent tampering.",
+    "outcome": "Strict guidelines on digital chain of custody; reflected in Section 61/63 of Bharatiya Sakshya Adhiniyam, 2023.",
+    "applicableSections": ["BSA Sec 61", "BSA Sec 63", "IEA Sec 65B"],
+    "source": "MOCK",
+    "sourceDocument": "Supreme Court Case Database (Illustrative Mock Record)"
+  },
+  {
+    "mock": true,
+    "caseName": "State of Maharashtra v. Mohd. Afzal (Cyber Fraud & Account Takeover)",
+    "citation": "2023 CriLJ 1420 (Bom HC) (MOCK Annotation)",
+    "court": "Bombay High Court",
+    "year": 2023,
+    "category": "Cyber Crime & Online Extortion",
+    "legalIssue": "Simultaneous application of penal law (cheating/intimidation) and IT Act provisions in social media account takeover and extortion.",
+    "summary": "Accused hacked social media profiles, locked out original owners, and demanded ransom while threatening to circulate altered photographs.",
+    "courtReasoning": "The High Court held that hacking an account and subsequently extorting or intimidating the victim constitutes distinct and cumulative offences under both IT Act (Sec 66/66C) and penal code provisions (BNS 318/351 / IPC 420/506).",
+    "outcome": "Conviction upheld; clear precedent on handling combined hacking + extortion grievances.",
+    "applicableSections": ["IT Act Sec 66", "IT Act Sec 66C", "BNS Sec 318", "BNS Sec 351"],
+    "source": "MOCK",
+    "sourceDocument": "Bombay High Court Law Reports (Illustrative Mock Record)"
+  },
+  {
+    "mock": true,
+    "caseName": "Ramesh Kumar v. State of NCT of Delhi (UPI & QR Code Deception)",
+    "citation": "2024 DHC 2189 (MOCK Annotation)",
+    "court": "Delhi High Court",
+    "year": 2024,
+    "category": "Financial Fraud",
+    "legalIssue": "Deceiving victims through fraudulent payment links and fake QR codes under penal cheating and identity impersonation.",
+    "summary": "Victim was deceived into scanning a reverse QR code believing they were receiving money for online sale of household items.",
+    "courtReasoning": "The Court observed that inducement through malicious payment gateways directly constitutes dishonest inducement under Cheating provisions (BNS 318 / IPC 420) along with IT Act Section 66D for digital impersonation.",
+    "outcome": "Bail rejected; immediate bank freezing under procedural provisions (BNSS 107) affirmed.",
+    "applicableSections": ["BNS Sec 318", "IT Act Sec 66D", "BNSS Sec 107"],
+    "source": "MOCK",
+    "sourceDocument": "Delhi High Court Judgments (Illustrative Mock Record)"
+  }
+]
